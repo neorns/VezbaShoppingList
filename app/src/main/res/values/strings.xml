@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VezbaShoppingList</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">Shopping Lists</string>
+    <string name="title_activity_detail">Shopping List</string>
+</resources>
